@@ -79,6 +79,7 @@ plt.show()
 ```
 ## Output:
 ### ORIGINAL IMAGE:
+![image](https://github.com/user-attachments/assets/7e6cf788-a510-42f7-a8a5-5a36d9fe3dc5)
 
 ### SOBEL EDGE DETECTOR
 ![Screenshot 2024-10-02 175022](https://github.com/user-attachments/assets/3f7e181b-a7e6-4f8f-be2d-9a4d1747bdc1)
