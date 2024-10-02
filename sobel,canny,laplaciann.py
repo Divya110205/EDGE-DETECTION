@@ -1,3 +1,6 @@
+#DEVELOPED BY: DIVYA.A
+#REGISTER NUMBER: 212222230034
+
 ## IMPORT PACKAGES AND LOAD IMAGES
 import cv2
 import matplotlib.pyplot as plt
